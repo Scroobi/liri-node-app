@@ -1,0 +1,140 @@
+**********SONG INFO*********
+0
+song name: thank u, next
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+1
+song name: break up with your girlfriend, i'm bored
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+2
+song name: 7 rings
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+3
+song name: needy
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+4
+song name: NASA
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+5
+song name: imagine
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+6
+song name: bloodline
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+7
+song name: bad idea
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+8
+song name: fake smile
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+9
+song name: in my head
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+10
+song name: ghostin
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+11
+song name: make up
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+12
+song name: Best I Ever Had
+preview song: null
+album: Thank Me Later (Int'l Version)
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+13
+song name: Me Too
+preview song: https://p.scdn.co/mp3-preview/8ea7db85c52756ee3c7da4ec9f89b40ba4b20a2e?cid=264cde0e41af4986a51e0e22a9ce9494
+album: Thank You (Deluxe Version)
+artist(s): Meghan Trainor
+*****************************
+**********SONG INFO*********
+14
+song name: NASA
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+15
+song name: Over
+preview song: null
+album: Thank Me Later
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+16
+song name: Thank You
+preview song: https://p.scdn.co/mp3-preview/f8472f573d8b9ff945ec43fea28d3e3769fa3237?cid=264cde0e41af4986a51e0e22a9ce9494
+album: No Angel
+artist(s): Dido
+*****************************
+**********SONG INFO*********
+17
+song name: Up All Night
+preview song: null
+album: Thank Me Later
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+18
+song name: Somebody to Thank
+preview song: https://p.scdn.co/mp3-preview/7985c139bacd3b585be106a2855aeb7e189b5e11?cid=264cde0e41af4986a51e0e22a9ce9494
+album: Come Back Road
+artist(s): Logan Mize
+*****************************
+**********SONG INFO*********
+19
+song name: Find Your Love
+preview song: null
+album: Thank Me Later
+artist(s): Drake
+*****************************
